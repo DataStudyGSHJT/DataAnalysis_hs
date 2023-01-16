@@ -86,11 +86,10 @@ ns_book4.to_csv('ns_book4.csv', index=False)
 ```
 
 ### 3-1-6. 일괄 처리 함수 만들기
-'''python
+```python
 def data_cleaning(filename):
     """
     남산 도서관 장서 CSV 데이터 전처리 함수
-    
     :param filename: CSV 파일이름
     """
     # 파일을 데이터프레임으로 읽습니다.
@@ -119,7 +118,8 @@ def data_cleaning(filename):
     return ns_book4
 
 new_ns_book4 = data_cleaning('ns_202104.csv')
-'''
+
+```
 
 ## 3-2. 잘못된 데이터 수정하기
 ### 3-2-1. 데이터프레임 정보 요약 확인하기
