@@ -1,17 +1,12 @@
-# DataAnalysis_hs - 혼자 공부하는 데이터 분석 with 파이썬
-## CH01 데이터분석을 시작하며
-- [소스코드](https://github.com/DataStudyGSHJT/DataAnalysis_hs/blob/main/CH01%20데이터분석을%20시작하며)
-## CH02 데이터 수집하기
-- [소스코드](https://github.com/DataStudyGSHJT/DataAnalysis_hs/blob/main/CH02%20데이터%20수집하기)
-## CH03 데이터 정제하기
-- [정리](https://github.com/DataStudyGSHJT/DataAnalysis_hs/tree/main/CH03%20데이터%20정제하기/README.md)
-- [소스코드](https://github.com/DataStudyGSHJT/DataAnalysis_hs/tree/main/CH03%20데이터%20정제하기)
-## CH04 데이터 요약하기
-- [정리](https://github.com/DataStudyGSHJT/DataAnalysis_hs/tree/main/CH04%20데이터%20요약하기/README.md)
-- [소스코드](https://github.com/DataStudyGSHJT/DataAnalysis_hs/tree/main/CH04%20데이터%20요약하기)
-## CH05 데이터 시각화하기
-- [정리](https://github.com/DataStudyGSHJT/DataAnalysis_hs/tree/main/CH05%20데이터%20시각화하기/README.md)
-- [소스코드](https://github.com/DataStudyGSHJT/DataAnalysis_hs/tree/main/CH05%20데이터%20시각화하기)
-## CH06 복잡한 데이터 표현하기
-- [정리](https://github.com/DataStudyGSHJT/DataAnalysis_hs/tree/main/CH06%20복잡한%20데이터%20표현하기/README.md)
-- [소스코드](https://github.com/DataStudyGSHJT/DataAnalysis_hs/tree/main/CH06%20복잡한%20데이터%20표현하기)
+# DataAnalysis_hs
+## 혼자 공부하는 데이터 분석 with 파이썬
+- [도서](https://www.yes24.com/Product/Goods/116253011)
+- [정리 자료 및 소스 코드](./혼자_공부하는_데이터분석)
+
+## 혼자 공부하는 머신러닝+딥러닝
+- [도서](https://www.yes24.com/Product/Goods/96024871)
+- [정리 자료 및 소스 코드](./혼자_공부하는_머신러닝)
+
+## 프로젝트로 배우는 데이터사이언스
+- [강의](www.boostcourse.org/ds214)
+- [정리 자료 및 소스 코드](./프로젝트로_배우는_데이터사이언스)
